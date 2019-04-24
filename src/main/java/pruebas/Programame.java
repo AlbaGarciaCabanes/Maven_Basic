@@ -29,5 +29,9 @@ public class Programame {
 		ArrayList salida = null;
 		return salida;
 	}
+	
+	public static void Ejemplo() {
+		System.out.println("Modificar algo");
+	}
 
 }
